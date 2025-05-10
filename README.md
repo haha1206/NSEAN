@@ -1,1 +1,1 @@
-# Graph Reconstruction-based Auto-weighted Multi-view Clustering
+# Nonnegative Spectral Embedding Learning with Adaptive Neighbors for Multi-view Clustering
